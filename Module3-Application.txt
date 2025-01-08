@@ -1,0 +1,61 @@
+Module Summary:
+Course: What is Data Science?
+Module 3: Applications and Careers in Data Science
+
+This course focuses on understanding the power of data science applications,
+how organizations utilize them to achieve business objectives,
+and how to embark on a data science career.
+
+Course Highlights:
+1. Lesson 1: Applications of Data Science
+   - Learn about the impact of data science in driving business goals, enhancing efficiency, making predictions, and saving lives.
+   - Explore the process data scientists use to help organizations succeed.
+   
+2. Lesson 2: Careers in Data Science
+   - Discover what companies look for in skilled data scientists and how to position yourself for success in the job market.
+   - Examine the skills and qualities that distinguish data scientists from other data roles.
+   - Analyze a real-world job posting to identify key requirements.
+   - Walk through Sarah’s data science journey in a detailed case study.
+
+Course Content Overview:
+- Videos: 10 (Total duration: 44 minutes)
+  1. How Should Companies Get Started in Data Science? (2 minutes)
+  2. Old Problems, New Data Science Solutions (3 minutes)
+  3. Applications of Data Science (3 minutes)
+  4. How Data Science is Saving Lives (4 minutes)
+  5. Lesson Summary: Data Science Applications Domain (4 minutes)
+  6. How Can Someone Become a Data Scientist? (5 minutes)
+  7. Recruiting for Data Science (7 minutes)
+  8. Careers in Data Science (2 minutes)
+  9. Importance of Mathematics and Statistics for Data Science (4 minutes)
+  10. Lesson Summary: Careers and Recruiting in Data Science (4 minutes)
+
+- Readings: 8 (Total duration: 25 minutes)
+  1. Lesson Overview: Data Science Application Domains (3 minutes)
+  2. Lesson Overview: Careers and Recruiting in Data Science (3 minutes)
+  3. Summary: Careers and Recruiting in Data Science (4 minutes)
+  4. A Roadmap to Your Data Science Journey (3 minutes)
+  5. Course Summary (7 minutes)
+  6. Congrats & Next Steps (1 minute)
+  7. Course Team and Acknowledgements (2 minutes)
+  8. IBM Digital Badge (2 minutes)
+
+- Assignments: 8 (Total duration: 88 minutes)
+  1. Practice Quiz: The Final Deliverable (6 minutes)
+  2. Practice Quiz: Data Science Application Domains (6 minutes)
+  3. Practice Quiz: The Report Structure (6 minutes)
+  4. Practice Quiz: Careers and Recruiting in Data Science (6 minutes)
+  5. Graded Quiz: Data Science Application Domains (9 minutes)
+  6. Graded Quiz: Careers and Recruiting in Data Science (9 minutes)
+  7. Quiz Based on Case Study (10 minutes)
+  8. Final Exam (36 minutes)
+
+- Plugins: 6 (Total duration: 28 minutes)
+  1. The Final Deliverable (4 minutes)
+  2. Glossary: Data Science Application Domains (4 minutes)
+  3. The Report Structure (8 minutes)
+  4. Glossary: Careers and Recruiting in Data Science (3 minutes)
+  5. Case Study: Final Assignment (8 minutes)
+  6. Explore Data Science Job Listings (1 minute)
+
+By completing this course, you gain insights into leveraging data science for organizational success and preparing yourself for a fulfilling career in the field.
