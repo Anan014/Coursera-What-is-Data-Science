@@ -1,0 +1,35 @@
+Course: What is Data Science?
+Module 4: Data Literacy for Data Science (Optional)
+
+This optional module is designed to enhance your understanding of data and data literacy, supplementing prior knowledge from the first three modules. As a data scientist, gaining insight into the data ecosystem and its manipulation is crucial for effective analysis. This module introduces foundational concepts, including how data is generated, stored, and accessed. It also delves into data repositories and processes for handling massive datasets.
+
+Content Overview:
+
+11 Videos (Total 65 minutes):
+- Understanding Data (4 minutes)
+- Data Sources (7 minutes)
+- Viewpoints: Working with Varied Data Sources and Types (6 minutes)
+- Lesson Summary: Understanding Data (4 minutes)
+- Data Collection and Organization (4 minutes)
+- Relational Database Management System (7 minutes)
+- NoSQL (7 minutes)
+- Data Marts, Data Lakes, ETL, and Data Pipelines (6 minutes)
+- Viewpoints: Considerations for Choice of Data Repository (6 minutes)
+- Data Integration Platforms (4 minutes)
+- Lesson Summary: Welcome to Data Literacy (5 minutes)
+
+3 Readings (Total 9 minutes):
+- Lesson Overview: Understanding Data (5 minutes)
+- Lesson Overview: Data Literacy (3 minutes)
+- Summary: Data Literacy for Data Science (1 minute)
+
+4 Assignments (Total 30 minutes):
+- Practice Quiz: Metadata (6 minutes)
+- Practice Quiz - Understanding Data (6 minutes)
+- Practice Quiz: Data Integration Platforms (12 minutes)
+- Practice Quiz: Data Literacy (6 minutes)
+
+3 Plugins (Total 18 minutes):
+- Reading: Metadata (6 minutes)
+- Glossary: Understanding Data (7 minutes)
+- Glossary: Data Literacy for Data Science (5 minutes)

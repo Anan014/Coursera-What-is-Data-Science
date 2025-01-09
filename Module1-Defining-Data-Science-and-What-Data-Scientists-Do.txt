@@ -1,0 +1,45 @@
+Course: What is Data Science?
+Module 1: Defining Data Science and What Data Scientists Do
+
+Summary:
+In Module 1, you delve into some fundamentals of Data Science. 
+- In Lesson 1, professionals define what data science means to them, their career paths, roles of data scientists, data analysis, and processes used to answer questions with data.
+- Lesson 2 focuses on the daily activities of data scientists, real-world problems they solve, necessary skills and qualities, the relation of "big data" to skills, various data formats, and algorithms used in data science.
+
+Course Content:
+- 11 Videos (Total 40 minutes):
+  - Course Introduction (4 minutes)
+  - What is Data Science? (2 minutes)
+  - Fundamentals of Data Science (2 minutes)
+  - The Many Paths to Data Science (3 minutes)
+  - Advice for New Data Scientists (2 minutes)
+  - Lesson Summary: Defining Data Science (3 minutes)
+  - A Day in the Life of a Data Scientist (3 minutes)
+  - Data Science Skills & Big Data (4 minutes)
+  - Understanding Different Types of File Formats (4 minutes)
+  - Data Science Topics and Algorithms (3 minutes)
+  - Lesson Summary: What Do Data Scientists Do? (4 minutes)
+
+- 6 Readings (Total 30 minutes):
+  - Course Syllabus (2 minutes)
+  - Professional Certificate Career Support (10 minutes)
+  - Helpful Tips for Course Completion (2 minutes)
+  - Lesson Overview: Defining Data Science (10 minutes)
+  - Lesson Overview: What Do Data Scientists Do? (3 minutes)
+  - Summary: What Do Data Scientists Do? (3 minutes)
+
+- 5 Assignments (Total 40 minutes):
+  - Graded Quiz: Defining Data Science (9 minutes)
+  - Graded Quiz: What Data Scientists Do (9 minutes)
+  - Practice Quiz: Data Science: The Sexiest Job in the 21st Century (6 minutes)
+  - Practice Quiz: Defining Data Science (10 minutes)
+  - Practice Quiz: What makes Someone a Data Scientist? (6 minutes)
+
+- 1 Discussion Prompt (Total 10 minutes):
+  - Introduce Yourself (10 minutes)
+
+- 4 Plugins (Total 33 minutes):
+  - Data Science: The Sexiest Job in the 21st Century (15 minutes)
+  - Glossary: Defining Data Science (5 minutes)
+  - What Makes Someone a Data Scientist? (9 minutes)
+  - Glossary: What do Data Scientists Do? (4 minutes)
